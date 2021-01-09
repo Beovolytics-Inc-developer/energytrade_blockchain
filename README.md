@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/dukagjinramosaj1/energytrade_blockchain)
+
 # Design, implementation and evaluation of blockchain-based energy trading
 
 Created as Master Thesis project in ISE department at TU Berlin
